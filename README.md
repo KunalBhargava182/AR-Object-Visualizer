@@ -1,3 +1,4 @@
+![CI](https://github.com/KunalBhargava182/AR-Object-Visualizer/actions/workflows/ci.yml/badge.svg)
 # AR Object Visualizer: Android
 
 An advanced Android app showcasing  **Augmented Reality (AR)** capabilities using **ARCore** and **Sceneform**. It enables users to render high-fidelity 3D models onto real-world surfaces, creating a seamless blend between the physical and digital environments.
